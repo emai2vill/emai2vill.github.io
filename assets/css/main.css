@@ -201,7 +201,7 @@ h1 > a:hover > .dot-head {
 }
 
 .gravatar {
-    background: url("/assests/img/FACE.jpg") no-repeat;
+    background: url("/assets/img/FACE.jpg") no-repeat;
     background-size: 200px 200px;
     border: 1px solid #ccc;
     border-radius: 100%;
